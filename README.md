@@ -37,7 +37,6 @@ I will be creating an exploratory analysis by creating data visualizations and c
 | speechiness | How much of a song is spoken word |
 | track_popularity |  How popular a song is (as of time of data collection) |
 
-**Link to Dataset:** https://www.kaggle.com/datasets/josephinelsy/spotify-top-hit-playlist-2010-2022
 
 
 ## Steps Covered
