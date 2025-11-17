@@ -1,21 +1,8 @@
-![GitHub repo size](https://img.shields.io/github/repo-size/Syed-Sarfaraz-Ahmed/Spotify-Dashboard?logo=github)
-![GitHub last commit](https://custom-icon-badges.demolab.com/github/last-commit/Syed-Sarfaraz-Ahmed/Spotify-Dashboard?logo=history&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen?logo=github) 
-
-
-# Spotify-Dashboard
+ # Spotify-Dashboard
 About Exploratory Data Analysis on "Top Songs of Spotify" between 2010-2022. This report explores on different data relations which can be formed from the given dataset.
-
-Click Here for [PDF-File](https://github.com/Syed-Sarfaraz-Ahmed/Spotify-Dashboard/blob/main/Spotify-Viz-PDF.pdf) 
-
-Click Here for [BI-Report](https://github.com/Syed-Sarfaraz-Ahmed/Spotify-Dashboard/blob/main/Spotify-Viz.pbix)
-
-Click Here for [Previous EDA on Dataset](https://github.com/Syed-Sarfaraz-Ahmed/Spotify-Data-Analysis)
-
 
 ## Introduction
 
-![Banner](https://logosmarcas.net/wp-content/uploads/2020/09/Spotify-Emblema.png)
 
 Spotify is a digital music streaming service that provides users access to over 82 million songs, podcasts and audio books. The app was developed by Daniel Ek and Martin Lorenzton in 2006. This app has become a family name over the years and boasts over 457 million subscribers as of 2022, rivaling SoundCloud and Apple Music. 
 
